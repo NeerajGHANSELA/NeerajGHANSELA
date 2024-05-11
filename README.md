@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning Advanced Data Structures And Algorithms
 
 ## Projects:
-Weather Application: 
-Bank Application: 
-Self-Checkout System:
+### Weather Application: 
+### Bank Application: 
+### Self-Checkout System:
   
 
 ## Connect with me:
