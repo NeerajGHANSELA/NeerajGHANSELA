@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm  Neeraj Ghansela
 #### Computer Science student at UoFC | Proficient at Java, Python and Assembly Language
-![Computer Science student at UoFC | Proficient at Java, Python and Assembly Language](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Computer Science student at UoFC | Proficient at Java, Python and Assembly Language](https://media.licdn.com/dms/image/D4E16AQGpO6xAeVjLNw/profile-displaybackgroundimage-shrink_350_1400/0/1714849744970?e=1720656000&v=beta&t=LE_QjkOXfO9ayvgECAbjtymAGr_yPnVLHmTkA-jMvUw)
 
 As a third-year Computer Science student, I have cultivated a strong proficiency in Java, Python, and Assembly Language. My academic journey has been marked by a variety of projects, ranging from intuitive weather and banking applications to simulation of a greenhouse environment and the design of self-checkout system.
 
