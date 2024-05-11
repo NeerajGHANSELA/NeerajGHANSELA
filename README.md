@@ -8,6 +8,6 @@ Skills: Java | Python | Assembly Language
 
 - 🌱 I’m currently learning Advanced Data Structures And Algorithms 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NeerajGHANSELA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/neeraj-ghansela/)  
+## Connect with me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/neeraj-ghansela/)  
 
