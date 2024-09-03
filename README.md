@@ -7,7 +7,7 @@
 ## Projects:
 <b>Weather Application</b>: A weather application that provides real-time weather information for any location worldwide using the Open-Meteo API. Stay informed with accurate data on temperature, wind speed, and more.
 
-<b>Bank Applicaiton</b>: A secure banking application that lets the users create an account manage their finances, including, deposit and withdrawal of their money. Features efficient data storage and retrieval using a hash table with SHA-256 encryption for enhanced security
+<b>Bank Application</b>: A secure banking application that lets the users create an account manage their finances, including, deposit and withdrawal of their money. Features efficient data storage and retrieval using a hash table with SHA-256 encryption for enhanced security
 
 #### Self-Checkout System:
   
