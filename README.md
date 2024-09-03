@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning Advanced Data Structures And Algorithms
 
 ## Projects:
-#### Weather Application: ##### A weather application that provides real-time weather information for any location worldwide using the Open-Meteo API. Stay informed with accurate data on temperature, wind speed, and more.
+#### Weather Application:
+A weather application that provides real-time weather information for any location worldwide using the Open-Meteo API. Stay informed with accurate data on temperature, wind speed, and more.
 
 #### Bank Application: Facilitates in managing your finances
 #### Self-Checkout System:
