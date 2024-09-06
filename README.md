@@ -1,8 +1,8 @@
 # Hi there 👋, I'm  Neeraj Ghansela
 ##  Computer Science student at UoFC | Proficient at Java, Python and Assembly Language
-![Computer Science student at UoFC | Proficient at Java, Python and Assembly Language](https://media.licdn.com/dms/image/D4E16AQGpO6xAeVjLNw/profile-displaybackgroundimage-shrink_350_1400/0/1714849744970?e=1720656000&v=beta&t=LE_QjkOXfO9ayvgECAbjtymAGr_yPnVLHmTkA-jMvUw)
+![Computer Science student at UoFC | Proficient at Java, Python and Assembly Language]
 
-- 🌱 I’m currently learning Advanced Data Structures And Algorithms
+- 🌱 I’m currently learning Advanced Data Structures And Algorithms, MySQL, Haskell programming language
 
 ## Projects:
 <b>Weather Application</b>: A weather application that provides real-time weather information for any location worldwide using the Open-Meteo API. Stay informed with accurate data on temperature, wind speed, and more.
