@@ -9,7 +9,7 @@
 
 <b>Bank Application</b>: A secure banking application that lets the users create an account manage their finances, including, deposit and withdrawal of their money. Features efficient data storage and retrieval using a hash table with SHA-256 encryption for enhanced security
 
-#### Self-Checkout System:
+<b>Self-Checkout System</b>: A software model that imitates the experience of using self-checkout system found in stores. Users can scan items, weigh them, and pay using various methods such as cash or credit/debit cards.
   
 
 ## Connect with me:
