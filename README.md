@@ -1,6 +1,6 @@
 # Hi there 👋, I'm  Neeraj Ghansela
 ##  Computer Science student at UoFC | Proficient at Java, Python and Assembly Language
-![Computer Science student at UoFC | Proficient at Java, Python and Assembly Language]
+[Computer Science student at UoFC | Proficient at Java, Python and Assembly Language]
 
 - 🌱 I’m currently learning Advanced Data Structures And Algorithms, MySQL, Haskell programming language
 
