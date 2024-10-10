@@ -2,7 +2,7 @@
 ##  Computer Science student at UoFC | Proficient at Java, Python and Assembly Language
 
 - 🌱 I’m currently learning MySQL, Haskell programming language
-- 🌱 I am currently exploring Operating Systems
+- 🌱 Currently exploring Operating Systems.
 - 🌱 Solid Understandimg of Data Structures and Algortihms.
 
 ## Projects:
