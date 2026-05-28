@@ -10,7 +10,7 @@ CS graduate from the University of Calgary | ML Engineer & Full-Stack Developer
 
 | Project | Description | Stack |
 |---|---|---|
-| [InPrep] | AI-powered mock interview platform with real-time emotion analysis and RED/YELLOW/GREEN feedback pipeline. Accepted into Hunter Hub Innovation Sandbox. | Python, Hume AI API, Next.js, React |
+| InPrep | AI-powered mock interview platform with real-time emotion analysis and RED/YELLOW/GREEN feedback pipeline. Accepted into Hunter Hub Innovation Sandbox. | Python, Hume AI API, Next.js, React |
 | [Human Activity Recognition](https://github.com/NeerajGHANSELA/Human-Activity-Recognition-) | End-to-end ML pipeline on 10,299-sample sensor dataset. PCA/t-SNE/Isomap dimensionality reduction (~88% feature reduction), K-Means/GMM/DBSCAN clustering. | Python, scikit-learn, pandas, NumPy |
 | [Handwritten Digit Recognition](https://github.com/NeerajGHANSELA/Handwritten-Digit-Recognition-System) | Custom CNN trained on 290K+ images · 98.56% accuracy · Full MLOps lifecycle: data augmentation → training → deployed on Hugging Face Spaces. | PyTorch, Albumentations, Gradio, Hugging Face |
 | [AI Virtual Painter](https://github.com/NeerajGHANSELA/AI-Virtual-Painter) | Real-time hand-gesture air-painting app with dual-mode state machine and OpenCV canvas overlay. | Python, MediaPipe, OpenCV |
